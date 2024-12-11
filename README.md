@@ -1,0 +1,13 @@
+## Hi! My name is Heini Silén ✌️
+
+## About me 🤩
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+
+## Skills 🥸
+- Programming: Python
+- Tools: Power Platform, Jupyter Notebook
+- 
+- ⚡ Fun fact: ...
+-->
