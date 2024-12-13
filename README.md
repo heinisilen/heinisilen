@@ -1,3 +1,4 @@
+```yaml
 ## Hi! My name is Heini Silén
 
 ## My education so far
@@ -24,3 +25,4 @@
 - 
 - ⚡ Fun fact: ...
 -->
+```
