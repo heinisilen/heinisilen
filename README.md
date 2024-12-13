@@ -1,5 +1,7 @@
 <h1>Hi! ✌️ My name is Heini Silén</h1>
 
+<h2>Welcome to check out my Porfolio 🔎</h2>
+
 ## My education (so far)
 - 🎓 2014 BHM - Savonia UAS, Hotel- and Restaurant Management
 - 🎓 2018 BBA – Savonia UAS, International Business
