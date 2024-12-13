@@ -1,5 +1,5 @@
 ```yaml
-<h1> Hi! My name is Heini Silén </h1>
+<h1>Hi! My name is Heini Silén</h1>
 
 ## My education so far
 - 🎓 2014 BHM - Savonia UAS, Hotel- and Restaurant Management
