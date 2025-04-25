@@ -15,7 +15,6 @@
 - ❤️ Travelling, books, wines, crocheting, knitting & being outdoors 🌳
 - 📫 How to reach me:
         - Email:	heini.silen@gmail.com
-        - Phone:	+358 44 3019 000
         - Location: 	Espoo, Finland
         - LinkedIn: 	https://www.linkedin.com/in/heinisilen
 
