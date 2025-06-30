@@ -20,13 +20,14 @@
 
 
 ## My skills
-- Power Platform: Power BI, Power Apps, Power Automate (Cloud & Desktop)
-- Development Environtments: Visual Studio Code, Anaconda, Jupyter Notebook
+- Power Platform: Power BI, Power Apps, Power Automate (Cloud & Desktop), Azure, Fabric, Copilot
+- Development Environments: Visual Studio Code, Anaconda, Jupyter Notebook, IDLE
 - RPA-Tools: UiPath
 - Analytics: Power Query, KNIME
 
 ## Certifications
 - Microsoft Certified: Power BI Data Analyst Associate, 2024
+- Microsoft Applied Skills: Create agents in Microsoft Copilot Studio, 2025
 
 ## My Experience
 
