@@ -6,7 +6,7 @@
 - 🎓 2014 BHM - Savonia UAS, Hotel- and Restaurant Management
 - 🎓 2018 BBA – Savonia UAS, International Business
 - 🎓 2024 MBA – Haaga-Helia UAS, Leading Business Transformation, Digital Business Opportunities
-- 🌱 I’m currently learning Python, Statistics, foundational machine learning concepts
+- 🌱 I’m currently learning Python, Dart, HTML, Statistics, foundational machine learning concepts
 
 ## About me
 - 🐶 Dog mom
