@@ -6,13 +6,10 @@
 - 🎓 2014 BHM - Savonia UAS, Hotel- and Restaurant Management
 - 🎓 2018 BBA – Savonia UAS, International Business
 - 🎓 2024 MBA – Haaga-Helia UAS, Leading Business Transformation, Digital Business Opportunities
-- 🌱 I’m currently learning Python, Dart, HTML, Statistics, foundational machine learning concepts
+- 🌱 I’m currently learning: Foundational machine learning concepts
 
 ## About me
-- 🐶 Dog mom
-- 🦔 Hedgehog mom
-- 🍭 Toddler mom
-- ❤️ Travelling, books, wines, crocheting, knitting & being outdoors 🌳
+- ❤️ Travelling, books, wines, crocheting, knitting & being outdoors 🌳🐕🦔
 - 📫 How to reach me:
         - Email:	heini.silen@gmail.com
         - Location: 	Espoo, Finland
@@ -22,12 +19,17 @@
 ## My skills
 - Power Platform: Power BI, Power Apps, Power Automate (Cloud & Desktop), Azure, Fabric, Copilot
 - Development Environments: Visual Studio Code, Anaconda, Jupyter Notebook, IDLE
+- Languages: Python, Dart, HTML
 - RPA-Tools: UiPath
 - Analytics: Power Query, KNIME
+- Other Cloud Providers: Amazon Web Services
 
 ## Certifications
 - Microsoft Certified: Power BI Data Analyst Associate, 2024
 - Microsoft Applied Skills: Create agents in Microsoft Copilot Studio, 2025
+- Kaggle certificates: Python, Pandas, Data Visualization
+- Skills Academy: certificate of completion: Course - AI For Business Users
+- LeanIX: Use Case Certification: Application Rationalization with LeanIX
 
 ## My Experience
 
@@ -35,7 +37,7 @@ I currently work as a Data Analyst Associate. My daily tasks include:
 - Data preparation in Power Query
 - Report building in Power BI
 - Building internal Power Apps
-- Automating tasks in Power Automate Cloud
+- Automating tasks in Power Automate Cloud & Desktop
 - Data conversions in IDEA
 
 I have had the priveledge to work in several different projects. I hae build about ten Power Apps, somewhat 20 power automations (cloud) and few automations in Power Automate Desktop. I enjoy working with and transforming data, and creating new ways to enhance daily work across the organization. I enjoy finding solutions to problems that my colleagues face in their daily tasks. Furthermore, I'm constantly searchin for innovative ways to enhance my skills within the platforms. 
