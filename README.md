@@ -21,8 +21,8 @@
 - Development Environments: Visual Studio Code, Anaconda, Jupyter Notebook, IDLE
 - Languages: Python, Dart, HTML
 - RPA-Tools: UiPath
-- Analytics: Power Query, KNIME
-- Other Cloud Providers: Amazon Web Services
+- Analytics: Power Query, KNIME, Fabric
+- Other Cloud Providers: AWS
 
 ## Certifications
 - Microsoft Certified: Power BI Data Analyst Associate, 2024
