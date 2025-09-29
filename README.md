@@ -3,9 +3,10 @@
 <h2>Welcome! Here you can check out my Porfolio 🔎</h2>
 
 ## My education (so far)
-- 🎓 2014 BHM - Savonia UAS, Hotel- and Restaurant Management
-- 🎓 2018 BBA – Savonia UAS, International Business
 - 🎓 2024 MBA – Haaga-Helia UAS, Leading Business Transformation, Digital Business Opportunities
+- 🎓 2018 BBA – Savonia UAS, International Business
+- 🎓 2014 BHM - Savonia UAS, Hotel- and Restaurant Management
+
 - 🌱 I’m currently learning: Foundational machine learning concepts
 
 ## About me
