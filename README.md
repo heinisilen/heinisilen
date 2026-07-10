@@ -18,7 +18,7 @@
 
 
 ## My skills
-- Power Platform: Power BI, Power Apps, Power Automate (Cloud & Desktop), Azure, Fabric, Copilot
+- Power Platform: Power BI, Power Apps, Power Automate (Cloud & Desktop), Azure, Fabric, Copilot, Copilot Studio
 - Development Environments: Visual Studio Code, Anaconda, Jupyter Notebook, IDLE
 - Languages: Python, Dart, HTML
 - RPA-Tools: UiPath
@@ -26,6 +26,7 @@
 - Other Cloud Providers: AWS
 
 ## Certifications
+- Microsoft Certified: Power Platform Fundamentals, 2026
 - Microsoft Certified: Power BI Data Analyst Associate, 2024
 - Microsoft Applied Skills: Create agents in Microsoft Copilot Studio, 2025
 - Kaggle certificates: Python, Pandas, Data Visualization
@@ -34,11 +35,12 @@
 
 ## My Experience
 
-I currently work as a Data Analyst Associate. My daily tasks include:
+I currently work as a Business Solution Developer. My daily tasks include:
 - Data preparation in Power Query
 - Report building in Power BI
 - Building internal Power Apps
 - Automating tasks in Power Automate Cloud & Desktop
+- Agent creation in Copilot Studio
 - Data conversions in IDEA
 
 I have had the priveledge to work in several different projects. I hae build about ten Power Apps, somewhat 20 power automations (cloud) and few automations in Power Automate Desktop. I enjoy working with and transforming data, and creating new ways to enhance daily work across the organization. I enjoy finding solutions to problems that my colleagues face in their daily tasks. Furthermore, I'm constantly searchin for innovative ways to enhance my skills within the platforms. 
